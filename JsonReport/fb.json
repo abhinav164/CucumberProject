@@ -1,0 +1,142 @@
+[
+  {
+    "line": 1,
+    "elements": [
+      {
+        "start_timestamp": "2022-03-30T11:24:04.832Z",
+        "line": 3,
+        "name": "",
+        "description": "    To validate login by using valid email and invalid password",
+        "id": "to-validate-login-functionality-of-facebook-page;",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 3486303500,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "user has to enter facebook login using chrome browser",
+            "match": {
+              "location": "StepDefinitions.user_has_to_enter_facebook_login_using_chrome_browser()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 186253700,
+              "status": "passed"
+            },
+            "line": 8,
+            "name": "user have to enter valid email and invalid password",
+            "match": {
+              "location": "StepDefinitions.user_have_to_enter_valid_email_and_invalid_password()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 2071317600,
+              "status": "passed"
+            },
+            "line": 9,
+            "name": "user have to click login button",
+            "match": {
+              "location": "StepDefinitions.user_have_to_click_login_button()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 427174700,
+              "status": "passed"
+            },
+            "line": 10,
+            "name": "user have to show invalid credential page",
+            "match": {
+              "location": "StepDefinitions.user_have_to_show_invalid_credential_page()"
+            },
+            "keyword": "Then "
+          }
+        ]
+      }
+    ],
+    "name": "To validate login functionality of facebook page",
+    "description": "",
+    "id": "to-validate-login-functionality-of-facebook-page",
+    "keyword": "Feature",
+    "uri": "file:src/test/resources/Featurefiles/Login.feature",
+    "tags": []
+  },
+  {
+    "line": 1,
+    "elements": [
+      {
+        "start_timestamp": "2022-03-30T11:24:11.059Z",
+        "line": 4,
+        "name": "",
+        "description": " To validate a forgotten password",
+        "id": ";",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 2284263800,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "User have to Enter Facebook Through Chrome Browser",
+            "match": {
+              "location": "StepDefinitions.user_have_to_Enter_Facebook_Through_Chrome_Browser()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 3221600200,
+              "status": "passed"
+            },
+            "line": 8,
+            "name": "User have to click forgotten password",
+            "match": {
+              "location": "StepDefinitions.user_have_to_click_forgotten_password()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 67477900,
+              "status": "passed"
+            },
+            "line": 9,
+            "name": "User have to enter email or phone Number",
+            "match": {
+              "location": "StepDefinitions.user_have_to_enter_email_or_phone_Number()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 66469600,
+              "status": "passed"
+            },
+            "line": 10,
+            "name": "user have to click Search button",
+            "match": {
+              "location": "StepDefinitions.user_have_to_click_Search_button()"
+            },
+            "keyword": "Then "
+          }
+        ]
+      }
+    ],
+    "name": "",
+    "description": "To validate forgotten password functionality of facebook page application",
+    "id": "",
+    "keyword": "Feature",
+    "uri": "file:src/test/resources/Featurefiles/frgtPassPojo.feature",
+    "tags": []
+  }
+]
