@@ -3,7 +3,7 @@
     "line": 1,
     "elements": [
       {
-        "start_timestamp": "2022-03-30T13:40:36.584Z",
+        "start_timestamp": "2022-03-31T08:38:22.062Z",
         "line": 3,
         "name": "",
         "description": "    To validate login by using valid email and invalid password",
@@ -13,7 +13,7 @@
         "steps": [
           {
             "result": {
-              "duration": 2957588300,
+              "duration": 4279489700,
               "status": "passed"
             },
             "line": 7,
@@ -25,7 +25,7 @@
           },
           {
             "result": {
-              "duration": 118352800,
+              "duration": 308415400,
               "status": "passed"
             },
             "line": 8,
@@ -37,7 +37,7 @@
           },
           {
             "result": {
-              "duration": 2053356600,
+              "duration": 2073859900,
               "status": "passed"
             },
             "line": 9,
@@ -49,7 +49,7 @@
           },
           {
             "result": {
-              "duration": 105618100,
+              "duration": 288633800,
               "status": "passed"
             },
             "line": 10,
@@ -73,7 +73,7 @@
     "line": 1,
     "elements": [
       {
-        "start_timestamp": "2022-03-30T13:40:41.861Z",
+        "start_timestamp": "2022-03-31T08:38:29.069Z",
         "line": 4,
         "name": "",
         "description": " To validate a forgotten password",
@@ -83,7 +83,7 @@
         "steps": [
           {
             "result": {
-              "duration": 1784330500,
+              "duration": 2223386400,
               "status": "passed"
             },
             "line": 7,
@@ -95,7 +95,7 @@
           },
           {
             "result": {
-              "duration": 3078903800,
+              "duration": 3236750400,
               "status": "passed"
             },
             "line": 8,
@@ -107,7 +107,7 @@
           },
           {
             "result": {
-              "duration": 47530900,
+              "duration": 84259200,
               "status": "passed"
             },
             "line": 9,
@@ -119,7 +119,7 @@
           },
           {
             "result": {
-              "duration": 50796500,
+              "duration": 55067900,
               "status": "passed"
             },
             "line": 10,
